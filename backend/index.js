@@ -23,7 +23,7 @@ app.use(express.json())
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-const DB = 'mongodb+srv://sahil:sahil@cluster-khan.yr8cojh.mongodb.net/mern?retryWrites=true&w=majority'
+ const DB = 'type url mongodb url to connect thank you'
 
 mongoose.connect(DB, {
     useNewUrlParser: true,
