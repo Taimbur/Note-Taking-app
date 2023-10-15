@@ -1,0 +1,9 @@
+p {
+  font-family: 'AR One Sans', sans-serif;
+  font-family: 'Belanosima', sans-serif;
+  font-family: 'Noto Serif', serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
